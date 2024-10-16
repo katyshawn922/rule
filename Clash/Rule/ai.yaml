@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
